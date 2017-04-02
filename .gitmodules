@@ -1,0 +1,6 @@
+[submodule "concourse-starter"]
+	path = concourse-starter
+	url = https://github.com/bbmoz/concourse-starter
+[submodule "tmux-starter"]
+	path = tmux-starter
+	url = https://github.com/bbmoz/tmux-starter
