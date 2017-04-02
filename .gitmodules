@@ -4,3 +4,6 @@
 [submodule "tmux-starter"]
 	path = tmux-starter
 	url = https://github.com/bbmoz/tmux-starter
+[submodule "ngrok-env"]
+	path = ngrok-env
+	url = https://github.com/bbmoz/ngrok-env
